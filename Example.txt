@@ -1,0 +1,3 @@
+download git 
+type git in cmd
+type git init in cmd
